@@ -1,0 +1,16 @@
+.detailAccBtn{
+    width: 8em;
+    font-weight: bold;
+     margin-left: 4em;
+    margin-right: 4em; 
+}
+/* .detailAccBtn{
+    width: 8em;
+    font-weight: bold;
+    margin-left: 6em;
+    margin-right: 6em;
+} */
+.tbhd{
+    font-weight: bold;
+    font-size: 2em;
+}

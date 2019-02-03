@@ -1,0 +1,29 @@
+.outerBody{
+    padding: 10px;
+}
+.accBox, .transBox{
+    border: 1px solid orangered;
+    border-radius: 10px;
+}
+.accBoxTitle, .transBoxTitle{
+    font-weight: bold;
+    /* margin: 10px; */
+    font-size: 2em;
+    border-bottom: 2px solid orangered;
+    text-align: center;
+    color: orangered;
+}
+.detailsBox{
+    border-bottom: 2px solid orangered;
+    /* height: 5em; */
+}
+.noOfAcc, .noOfTrans{
+    text-align: center;
+    margin: 20px;
+    font-weight: bold;
+    font-size: 2em;
+}
+.dbBtn{
+    margin: 10px;
+    font-weight: bold;
+}

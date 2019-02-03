@@ -1,0 +1,38 @@
+.displayBody{
+    border: 1px solid orangered;
+    padding: 20px;
+    border-radius: 10px;
+}
+.goBackBtn{
+    font-weight: bold;
+}
+.displayTitle{
+    text-align: center;
+    font-weight: bold;
+    font-size: 3em;
+    border-bottom: 2px solid orangered;
+    color: orangered;
+}
+
+.newAccBtn{
+    width: 25em;
+    font-weight: bold;
+}
+.cleanbtn{
+    margin-left: 2em;
+    font-weight: bold;
+}
+/* App Info CSS */
+appOtBox{
+    text-align: center;
+}
+.appTitle{
+    font-weight: bolder;
+    font-size: 3em;
+    text-align: center;
+}
+.apptxt{
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+}

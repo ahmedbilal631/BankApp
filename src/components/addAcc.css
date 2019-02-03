@@ -1,0 +1,15 @@
+.addAccBody{
+    border: 1px solid orangered;
+    padding: 20px;
+    border-radius: 10px; 
+}
+.addAccTop{
+    border-bottom: 2px solid orangered;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3em;
+    color: orangered;
+    }
+.createBtn{
+    font-weight: bold;
+}
